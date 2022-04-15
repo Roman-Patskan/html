@@ -73,10 +73,10 @@ body {
 }
 
 .photo{
-background-image: url(images/Photott.jpg);
 background-size: cover;
-width: 399px;
+background-position: center;
 height: 370px;
+width: 50%;
 }
 
 .info{
